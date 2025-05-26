@@ -43,7 +43,7 @@
 - Có điểm âm hoặc lớn hơn 10
 
 ## Độ phủ mã
-<img src="Docs/test.png" alt="Anh test" />
+<img src="Docs/Test.png" alt="Anh test" />
 
 ## ▶️ Hướng dẫn chạy kiểm thử
 
