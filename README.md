@@ -42,7 +42,8 @@
 #### ✅ Trường hợp ngoại lệ:
 - Có điểm âm hoặc lớn hơn 10
 
-
+## Độ phủ mã
+<img src="Docs/test.png" alt="Anh test" />
 
 ## ▶️ Hướng dẫn chạy kiểm thử
 
@@ -51,30 +52,5 @@
 - Click chuột phải vào file `StudentAnalyzerTest.java` → **Run 'StudentAnalyzerTest'**
 
 ### ✅ Cách 2: Dùng Maven (nếu có `pom.xml`)
-```bash
-mvn test
-🔗 Quy trình commit và liên kết Issue
-Ví dụ:
-bash
-Copy
-Edit
-git add src/StudentAnalyzer.java
-git commit -m "feat: implement countExcellentStudents() #1"
-
-git add src/StudentAnalyzer.java
-git commit -m "feat: implement calculateValidAverage() #2"
-
-git add test/StudentAnalyzerTest.java
-git commit -m "test: add unit tests for both methods #3"
-
-git add README.md
-git commit -m "docs: add usage and project description #4"
-👉 Dùng cú pháp #1, #2,... để liên kết với Issue tương ứng
-👉 Dùng fixes #1 để tự động đóng Issue khi merge vào nhánh chính
-
-👤 Tác giả
-Họ tên: Vũ Thiện Tân
-
-MSSV / Lớp: (Điền nếu cần)
 
 Link repo: https://github.com/ta-n-n/unit-test-VuThienTan
